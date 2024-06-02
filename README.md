@@ -10,3 +10,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0344-reverse-string) |
+| [1542-consecutive-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1542-consecutive-characters) |
