@@ -21,11 +21,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
+# Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
