@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Sorting
 |  |
 | ------- |
@@ -39,3 +40,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
+# Math
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+# Simulation
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+# Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+# Prefix Sum
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
