@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Sorting
 |  |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
