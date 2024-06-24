@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0344-reverse-string) |
 | [1542-consecutive-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1542-consecutive-characters) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3447-clear-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3447-clear-digits) |
 # Greedy
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Sorting
