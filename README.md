@@ -71,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1916-find-center-of-star-graph) |
