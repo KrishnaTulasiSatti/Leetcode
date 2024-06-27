@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0075-sort-colors) |
+| [0777-toeplitz-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1137-height-checker](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1217-relative-sort-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -75,3 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1916-find-center-of-star-graph) |
+# Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0777-toeplitz-matrix) |
