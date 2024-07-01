@@ -80,3 +80,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0777-toeplitz-matrix) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
