@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
@@ -121,9 +122,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2645-pass-the-pillow) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
