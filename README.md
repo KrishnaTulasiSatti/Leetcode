@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
+## Greedy
+|  |
+| ------- |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 <!---LeetCode Topics End-->
