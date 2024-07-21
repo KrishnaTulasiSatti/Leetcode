@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -190,10 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
