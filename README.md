@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
@@ -220,4 +223,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
