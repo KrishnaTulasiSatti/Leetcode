@@ -11,21 +11,28 @@
  */
 class Solution {
 public:
-int depth(TreeNode* root) {
+int s = 0;
+int Depth(TreeNode* root) {
     if(root == NULL) return 0;
-    return 1+max(depth(root->left),depth(root->right));
+    return 1+max(Depth(root->left),Depth(root->right));
 }
-int sum = 0;
+void Sum(TreeNode* root,int l,int len) {
+    if(root == NULL) return;
+    if(l == len) {
+        s+=root->val;
+        return;
+    }
+    l = l+1;
+    Sum(root->left,l,len);
+    Sum(root->right,l,len);
 
-void deepestSum(TreeNode* root,int l,int len) {
-       if(root == NULL) return;
-       if(l == len-1) sum+=root->val;
-       deepestSum(root->left,l+1,len);
-       deepestSum(root->right,l+1,len);
+
 }
     int deepestLeavesSum(TreeNode* root) {
-        int len = depth(root);
-        deepestSum(root,0,len);
-        return sum;
+        int len = Depth(root);
+        cout<<len<<" ";
+        int l = 1;
+        Sum(root,l,len);
+        return s;
     }
 };
