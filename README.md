@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -322,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
