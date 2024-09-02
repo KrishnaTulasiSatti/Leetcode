@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
