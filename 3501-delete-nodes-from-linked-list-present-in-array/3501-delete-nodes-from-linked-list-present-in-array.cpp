@@ -11,29 +11,28 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        int frq[100001] = {0};
-        for(int i = 0 ; i < nums.size() ; i++) {
-            frq[nums[i]] = 1;
-        }
-        ListNode* temp = head;
+        unordered_map<int,int>m;
+        for(auto it : nums) m[it]++;
         ListNode* res = NULL;
-        ListNode* temp2 = NULL;
+        ListNode* t = NULL;
+        ListNode* temp = head;
         while(temp != NULL) {
-             if(frq[temp->val] == 1) {
-                 if(temp->next == NULL) temp2->next = NULL; 
-                 temp = temp->next;
-               
-             }
-             else{
+            if(m[temp->val] >= 1) {
+                temp = temp->next;
+                continue;
+            }
+            else{
                 if(res == NULL) {
-                    res = temp;
+                    res = new ListNode(temp->val);
+                    t = res;
                 }
                 else{
-                    temp2->next = temp;
+                    t->next = new ListNode(temp->val);
+                    t = t->next;
                 }
-                temp2 = temp;
-                temp = temp->next;
-             }
+            }
+            temp = temp->next;
+            
         }
         return res;
     }
