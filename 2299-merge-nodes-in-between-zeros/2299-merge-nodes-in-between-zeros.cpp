@@ -12,27 +12,24 @@ class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
         ListNode* res = NULL;
-        ListNode* t = NULL;
         ListNode* temp = head;
+        ListNode* t = NULL;
         int sum = 0;
+        temp = temp->next;
         while(temp != NULL) {
-            if(temp->val == 0 && sum != 0) {
-                ListNode* newnode = (ListNode*)malloc(sizeof(ListNode));
-                newnode->val = sum;
-                newnode->next = NULL;
+            if(temp->val == 0) {
                 if(res == NULL) {
-                    res = newnode;
-                    t = newnode;
+                    res = new ListNode(sum);
+                    sum = 0;
+                    t = res;
                 }
                 else{
-                    t->next = newnode;
-                    t = newnode;
+                    t->next = new ListNode(sum);
+                    t = t->next;
+                    sum = 0;
                 }
-                sum = 0;
             }
-            else{
-                sum+=temp->val;
-            }
+            else sum+=temp->val;
             temp = temp->next;
         }
         return res;
