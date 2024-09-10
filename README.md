@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1039-find-the-town-judge](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1039-find-the-town-judge](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -476,4 +478,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
