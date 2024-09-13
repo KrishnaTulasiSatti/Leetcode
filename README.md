@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
