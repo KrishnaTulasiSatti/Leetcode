@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0204-count-primes) |
+| [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
