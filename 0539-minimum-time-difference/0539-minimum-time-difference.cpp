@@ -14,7 +14,6 @@ public:
         for(int i = 1 ; i < time.size() ; i++) {
             mini = min(mini,abs(time[i-1]-time[i]));
         }
-       // for(auto it : time) cout<<it<<endl;
         mini = min(mini,abs(time[0]+(1440-time[time.size()-1])));
         return mini;
     }
