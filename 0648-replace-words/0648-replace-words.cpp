@@ -2,12 +2,9 @@ class Node{
     private:
     Node* array[26];
     bool flag;
-
     public:
     Node() {
-        for(int i = 0 ; i< 26 ; i++) {
-            array[i] = nullptr;
-        }
+        for(int i = 0 ; i < 26 ; i++) array[i] = nullptr;
         flag = false;
     }
     bool contains(char ch) {
@@ -18,14 +15,13 @@ class Node{
     }
     Node* getNext(char ch) {
         return array[ch-'a'];
-    } 
+    }
     void setFlag() {
         flag = true;
     }
     bool getFlag() {
         return flag;
     }
-
 };
 class Trie{
     private:
@@ -35,7 +31,7 @@ class Trie{
         Node* temp = root;
         for(auto it : word) {
             if(!temp->contains(it)) {
-                temp->put(it,new Node());
+                 temp->put(it,new Node());
             }
             temp = temp->getNext(it);
         }
@@ -60,22 +56,22 @@ class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
         Trie trie;
+        string res = "";
         for(auto it : dictionary) {
             trie.insert(it);
         }
-        string ans = "";
         string word = "";
         for(int i = 0 ; i < sentence.size() ; i++) {
             if(sentence[i] == ' ') {
-                ans+=trie.search(word);
-                ans+=" ";
+                res+=trie.search(word);
                 word = "";
+                res+=" ";
             }
             else{
                 word+=sentence[i];
             }
         }
-        ans+=trie.search(word);
-        return ans;
+        res+=trie.search(word);
+        return res;
     }
 };
