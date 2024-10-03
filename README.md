@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2155-find-missing-observations) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
