@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
