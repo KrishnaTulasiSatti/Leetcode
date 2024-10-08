@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3164-last-visited-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3164-last-visited-integers) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Linked List
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Tree
 |  |
