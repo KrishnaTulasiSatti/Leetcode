@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1731-even-odd-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1731-even-odd-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Matrix
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
