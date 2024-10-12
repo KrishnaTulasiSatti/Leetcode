@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0835-linked-list-components) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -444,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
