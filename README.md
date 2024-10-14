@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0648-replace-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0835-linked-list-components](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0835-linked-list-components) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
