@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3164-last-visited-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3164-last-visited-integers) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
