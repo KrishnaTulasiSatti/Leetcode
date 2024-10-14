@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
