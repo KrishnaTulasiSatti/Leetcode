@@ -2,12 +2,14 @@ class Solution {
 public:
     int maxCoins(vector<int>& piles) {
         sort(piles.begin(),piles.end());
+        int i = 0 ;
+        int j = piles.size()-1;
         int coins = 0;
-        int n = piles.size()/3;
-        int k = piles.size()-2;
-        while(n--) {
-            coins+= piles[k];
-            k-=2;
+        while(i < j){
+            j--;
+            coins+=piles[j];
+            j--;
+            i++;
         }
         return coins;
     }
