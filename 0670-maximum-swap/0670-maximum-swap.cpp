@@ -1,16 +1,19 @@
 class Solution {
 public:
     int maximumSwap(int num) {
-       string str = to_string(num);
-       string temp = str;
-       string ans = str;
-       for(int i = 0 ; i < str.size() ; i++) {
-        for(int j = i+1 ; j < str.size() ; j++) {
-           swap(str[i],str[j]);
-           ans = max(ans,str);
-           str = temp;
+        string n = to_string(num);
+        string res = n;
+        for(int i = 0 ; i < n.size() ; i++) {
+            string t = n;
+            for(int j = i+1 ; j < n.size() ; j++) {
+                swap(t[i],t[j]);
+                res = max(res,t);
+                t = n;
+
+            }
         }
-       }
-       return stol(ans);
+        int ans = stol(res);
+        return ans;
+        
     }
 };
