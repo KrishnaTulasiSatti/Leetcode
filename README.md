@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -667,4 +669,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
