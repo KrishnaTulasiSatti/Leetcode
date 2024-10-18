@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
