@@ -1,18 +1,16 @@
 class Solution {
 public:
+string fun(int n,string s) {
+    if(n == 0) return s;
+    string a = s+"1";
+    for(int i = s.size()-1 ; i >= 0 ; i--) {
+        if(s[i] == '1') a+="0";
+        else a+="1";
+    }
+    return fun(n-1,a);
+}
     char findKthBit(int n, int k) {
-        vector<string>v;
-        v.push_back("0");
-        for(int i = 1 ; i < n ; i++) {
-            string s = v[i-1];
-            string r = s+"1";
-            for(int j = s.size()-1 ; j >= 0 ; j--) {
-                if(s[j] == '1') r+="0";
-                else r+="1";
-            }
-            v.push_back(r);
-        }
-        string ans = v[n-1];
+        string ans = fun(n,"0");
         return ans[k-1];
     }
 };
