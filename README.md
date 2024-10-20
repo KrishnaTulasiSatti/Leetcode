@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3164-last-visited-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3164-last-visited-integers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
