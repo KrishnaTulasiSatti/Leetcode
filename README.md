@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3164-last-visited-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3164-last-visited-integers) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
