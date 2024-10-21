@@ -6,16 +6,17 @@ bool isVowel(char ch) {
 }
     int maxVowels(string s, int k) {
         int maxi = 0;
+        int vowels = 0;
         for(int i = 0 ; i < k ; i++) {
-            if(isVowel(s[i])) maxi++;
+            if(isVowel(s[i])) vowels++;
         }
         int l = 0;
         int r = k;
-        int cnt = maxi;
+        maxi = vowels;
         while(r < s.size()) {
-            if(isVowel(s[r])) cnt++;
-            if(isVowel(s[l])) cnt--;
-            maxi = max(maxi,cnt);
+            if(isVowel(s[r])) vowels++;
+            if(isVowel(s[l])) vowels--;
+            maxi = max(maxi,vowels);
             l++;
             r++;
         }
