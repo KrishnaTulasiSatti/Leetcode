@@ -3,18 +3,20 @@ public:
     int longestSubarray(vector<int>& nums) {
         int l = 0;
         int r = 0;
-        int zeros = 0;
+        int n = nums.size();
         int maxi = 0;
-        while(r < nums.size()) {
-           if(nums[r] == 0) zeros++;
-           while(zeros > 1) {
-             if(nums[l] == 0) zeros--;
-             l++;
-           }
-           if(zeros <= 1) maxi = max(maxi,r-l);
-           r++;
+        vector<int>v(2,0);
+        while(r < n) {
+            v[nums[r]]++;
+            if(nums[r] == 0) {
+                while(v[nums[r]] > 1) {
+                    v[nums[l]]--;
+                    l++;
+                }
+            }
+            maxi = max(maxi,r-l+1);
+            r++;
         }
-        if(maxi == 0) return 0;
-        return maxi;
+        return maxi-1;
     }
 };
