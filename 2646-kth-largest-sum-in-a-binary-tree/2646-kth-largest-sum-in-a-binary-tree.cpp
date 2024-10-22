@@ -28,7 +28,7 @@ public:
             pq.push(sum);
             if(pq.size() > k) pq.pop();
         }
-        if(pq.size() == k) return pq.top();
-        return -1;
+        if(pq.size() < k) return -1;
+        return pq.top();
     }
 };
