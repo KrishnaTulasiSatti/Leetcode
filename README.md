@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -510,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1731-even-odd-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
