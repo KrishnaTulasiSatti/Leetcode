@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
