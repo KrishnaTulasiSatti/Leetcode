@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
 ## Hash Table
 |  |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -718,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
