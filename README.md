@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
