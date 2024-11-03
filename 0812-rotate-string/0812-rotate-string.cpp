@@ -6,7 +6,6 @@ public:
             reverse(t.begin(),t.begin()+i);
             reverse(t.begin()+i,t.end());
             reverse(t.begin(),t.end());
-           // cout<<t<<endl;
             if(t == goal) return true;
         }
         return false;
