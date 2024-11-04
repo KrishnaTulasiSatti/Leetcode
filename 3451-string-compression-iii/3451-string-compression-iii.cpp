@@ -1,20 +1,19 @@
 class Solution {
 public:
     string compressedString(string word) {
-        string res;
-        int count = 1;
-
+        string res = "";
+        int cnt = 1;
         for(int i = 1 ; i <= word.size() ; i++) {
-            if(word[i-1] == word[i]) count++;
-            if(word[i-1] != word[i] ) {
-                res+=(count+'0');
+            if(word[i-1] == word[i]) cnt+=1;
+            if(word[i-1] != word[i]) {
+                res+=(to_string(cnt));
                 res+=word[i-1];
-                count = 1;
+                cnt = 1;
             }
-            if(count == 9) {
-                res+='9';
+            if(cnt == 9) {
+                res+="9";
                 res+=word[i-1];
-                count = 1;
+                cnt = 1;
                 i++;
             }
         }
