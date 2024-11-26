@@ -734,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3189-find-champion-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
