@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1945-finding-the-users-active-minutes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -639,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
