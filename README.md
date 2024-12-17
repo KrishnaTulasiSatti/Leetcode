@@ -821,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1837-daily-leads-and-partners](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
