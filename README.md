@@ -826,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0176-second-highest-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1837-daily-leads-and-partners) |
