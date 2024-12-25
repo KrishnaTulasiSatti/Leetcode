@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
