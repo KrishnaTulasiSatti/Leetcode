@@ -1,23 +1,35 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int zeroes = 0;
-        int ones = 0;
-        for(auto it : s) {
-            if(it == '1') ones++;
-            else zeroes++;
-        }
-        int maxi = 0;
-        int z = 0;
-        int o = 0;
-        cout<<zeroes<<" "<<ones<<endl;
-        for(int i = 0 ; i < s.size()-1 ; i++) {
-            if(s[i] == '0') z++;
-            else o++;
-            
-            maxi = max(maxi,z+(ones-o));
+        int cnt = 0;
 
+        vector<int>zeroes(s.size(),0);
+        
+        for(int i = 0 ; i < s.size() ; i++) {
+            if(s[i] == '0') cnt++;
+            zeroes[i] = cnt;
         }
+
+        vector<int>ones(s.size(),0);
+
+        cnt = 0;
+    
+        int maxi = 0;
+
+        for(int i = s.size()-1 ; i >= 0 ; i--) {
+            if(s[i] == '1') cnt++;
+            ones[i] = cnt;
+        }
+
+       
+
+        for(int i = 0 ; i < s.size()-1; i++) {
+            maxi = max(maxi,zeroes[i]+ones[i+1]);
+        }
+
+
         return maxi;
+
+        
     }
 };
