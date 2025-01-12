@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1284-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1284-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
