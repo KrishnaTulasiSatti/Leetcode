@@ -1,23 +1,22 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        int frqleft[26] = {0};
-        int frqright[26] = {0};
+        unordered_map<char,int>m;
         for(int i = 0 ; i < s.size() ; i++) {
-            frqright[s[i]-'a']++;
+            m[s[i]]++;
         }
-        frqleft[s[0]-'a']++;
-        int len = s.size();
-        frqright[s[0]-'a']--;
-        for(int i = 1 ; i < s.size()-1 ; i++) {
-            frqright[s[i]-'a']--;
-            if(frqleft[s[i]-'a'] > 0 && frqright[s[i]-'a'] > 0) {
-                len-=2;
-                frqleft[s[i]-'a']--;
-                frqright[s[i]-'a']--;
-            } 
-             frqleft[s[i]-'a']++;
-
+        int len = 0;
+        for(auto it : m) {
+            int occ = it.second;
+           // cout<<it.first<<" "<<it.second<<" ";
+            if(occ < 3) len+=occ;
+            else{
+                while(occ >= 3) {
+                    occ-=2;
+                }
+                len+=occ;
+            }
+           // cout<<len<<endl;
         }
         return len;
     }
