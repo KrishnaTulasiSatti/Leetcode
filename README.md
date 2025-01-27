@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -733,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0239-sliding-window-maximum) |
