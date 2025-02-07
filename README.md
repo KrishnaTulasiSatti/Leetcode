@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
