@@ -1,18 +1,20 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        priority_queue<long long,vector<long long>,greater<long long>>pq;
-        for(auto it : nums) pq.push(it);
-        int cnt = 0;
-        while(pq.size() >= 2 && pq.top() < k) {
-            long long a = pq.top();
-            pq.pop();
-            long long b = pq.top();
-            pq.pop();
-            cnt++;
-            long long c = min(a,b)*2+max(a,b);
-            pq.push(c);
+        multiset<long long>st;
+        for(int i = 0 ; i < nums.size() ; i++) {
+            st.insert(nums[i]);
         }
-        return cnt;
+        
+        int c = 0;
+        while(*st.begin() < k) {
+            long long a = *st.begin();
+            st.erase(st.find(a));
+            long long b = *st.begin();
+            st.erase(st.find(b));
+            st.insert(min(a,b)*2+max(a,b));
+            c++;
+        }
+        return c;
     }
 };
