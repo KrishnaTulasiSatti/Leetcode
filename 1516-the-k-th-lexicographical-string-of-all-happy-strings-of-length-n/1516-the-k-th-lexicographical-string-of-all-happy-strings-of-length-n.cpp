@@ -26,7 +26,9 @@ void fun(string s,int n) {
 
 
 }
-    string getHappyString(int n, int k) {
+
+string getHappyString(int n, int k) {
+    
         fun("a",n);
         fun("b",n);
         fun("c",n);
