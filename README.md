@@ -939,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-more-than-5-students](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0620-not-boring-movies) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1541-top-travellers) |
