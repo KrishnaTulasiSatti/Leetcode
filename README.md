@@ -946,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-last-person-to-fit-in-the-bus](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1541-top-travellers) |
 | [1734-bank-account-summary-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1837-daily-leads-and-partners) |
