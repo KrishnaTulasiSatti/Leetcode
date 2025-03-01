@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2580-circular-sentence) |
+| [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 | [2645-pass-the-pillow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -729,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -918,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
+| [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 ## Rolling Hash
 |  |
 | ------- |
