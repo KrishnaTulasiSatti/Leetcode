@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
