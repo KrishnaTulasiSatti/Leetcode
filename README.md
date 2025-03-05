@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 | [2645-pass-the-pillow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
