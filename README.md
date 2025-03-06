@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -704,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -748,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
