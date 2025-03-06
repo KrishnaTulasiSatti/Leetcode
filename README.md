@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1940-maximum-xor-for-each-query](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1945-finding-the-users-active-minutes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1972-rotating-the-box](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -825,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1940-maximum-xor-for-each-query](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
