@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -808,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2998-count-symmetric-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Sliding Window
 |  |
 | ------- |
