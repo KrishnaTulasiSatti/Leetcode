@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
