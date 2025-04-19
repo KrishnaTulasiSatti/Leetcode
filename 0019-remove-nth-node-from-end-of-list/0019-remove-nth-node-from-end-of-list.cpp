@@ -30,7 +30,6 @@ public:
         ListNode* delNode = slow->next;
         slow->next = slow->next->next;
         delete delNode;
-
         return head;
     }
 };
