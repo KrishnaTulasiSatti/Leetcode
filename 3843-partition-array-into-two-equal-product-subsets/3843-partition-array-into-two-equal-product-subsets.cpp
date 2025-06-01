@@ -23,7 +23,7 @@ public:
         for(int i = 0 ; i < nums.size() ; i++) {
             
             totalSum = (totalSum*nums[i]);
-            if (totalSum > (ll)target*target) return false; 
+            //if (totalSum > (ll)target*target) return false; 
         }
 
         bool f1 = find(nums,target);
