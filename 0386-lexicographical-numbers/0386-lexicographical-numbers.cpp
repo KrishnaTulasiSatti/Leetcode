@@ -1,16 +1,26 @@
 class Solution {
 public:
+
+vector<int>ans;
+
+void fun(int n,int curr) {
+
+    if(curr > n) return;
+
+    ans.push_back(curr);
+
+    for(int i = 0 ; i <= 9 ; i++) {
+        fun(n,curr*10+i);
+    }
+
+}
     vector<int> lexicalOrder(int n) {
-        vector<string>s;
-        for(int i = 1 ; i <= n ; i++) {
-            s.push_back(to_string(i));
+
+        for(int i = 1 ; i <= 9 ; i++) {
+            fun(n,i);
         }
-        sort(s.begin(),s.end());
-        vector<int>res;
-        for(int i = 0 ; i < s.size() ; i++){
-            res.push_back(stol(s[i]));
-        }        
-        return res;
+
+        return ans;
         
     }
 };
