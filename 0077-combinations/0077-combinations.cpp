@@ -36,3 +36,17 @@ void fun(vector<int>&nums,int i,int n,int k,vector<int>&temp) {
         return ans;
     }
 };
+
+//     void solve2(int num,int tot,int k,vector<int>&ans){
+//       if(ans.size()==k){
+//       res.push_back(ans);
+//       return;
+//       }
+//       for(int i=num;i<=tot;i++){
+//           ans.push_back(i);
+//           solve2(i+1,tot,k,ans);//generating answer in sorted order
+// // 1  12  123 13 like this
+//           ans.pop_back();
+//       }
+      
+//     }
