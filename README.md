@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0055-jump-game) |
@@ -1012,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0113-path-sum-ii) |
