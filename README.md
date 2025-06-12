@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0415-add-strings) |
@@ -936,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0909-stone-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0909-stone-game) |
@@ -1044,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0070-climbing-stairs) |
 | [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
