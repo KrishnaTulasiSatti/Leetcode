@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -954,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0909-stone-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1063-best-sightseeing-pair) |
