@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0204-count-primes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -1043,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0216-combination-sum-iii) |
