@@ -595,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
 | [0624-maximum-distance-in-arrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0670-maximum-swap) |
@@ -808,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -971,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0909-stone-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -1081,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
 | [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
