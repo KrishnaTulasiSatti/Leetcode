@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -745,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -813,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
