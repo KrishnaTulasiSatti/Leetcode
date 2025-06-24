@@ -1,19 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
-        unordered_map<int,int>m;
-        for(auto it : nums) m[it]++;
-        int maxi = INT_MIN;
-        for(auto it : m) {
-            maxi = max(maxi,it.second);
-        }
-        cout<<maxi<<endl;
-        vector<vector<int>>ans(maxi);
+
+        vector<int>track(300,-1);
+
+        vector<vector<int>>ans;
+
         for(int i = 0 ; i < nums.size() ; i++) {
-            int a = m[nums[i]];
-            ans[a-1].push_back(nums[i]);
-            m[nums[i]]--;
+
+            int prev = track[nums[i]];
+
+            int len = ans.size();
+
+            if(prev+1 > len-1) {
+                ans.push_back({nums[i]});
+                track[nums[i]] = prev+1; 
+            }
+            else {
+                ans[prev+1].push_back(nums[i]);
+                track[nums[i]] = prev+1;
+            }
+
+
         }
+
         return ans;
+
+
     }
 };
