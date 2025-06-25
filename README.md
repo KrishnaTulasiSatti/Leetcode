@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1945-finding-the-users-active-minutes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -890,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
