@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -844,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1097,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
