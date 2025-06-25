@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0204-count-primes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1040,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -1175,4 +1179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
