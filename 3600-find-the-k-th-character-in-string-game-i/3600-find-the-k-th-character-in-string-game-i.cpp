@@ -1,17 +1,17 @@
 class Solution {
 public:
     char kthCharacter(int k) {
-        string newWord = "a";
-        while(true){
-            string word = "";
-            for(int i = 0 ; i < newWord.size() ; i++) {
-                if(newWord[i] == 'z') word+='a';
-                else word+=(newWord[i]+1);
+        string s = "a";
+
+
+        while(s.size() < k) {
+            string temp = s;
+            for(int j = 0 ; j < temp.size() ; j++) {
+                if(temp[j] == 'z') s+='a';
+                else s+= (temp[j]+1);
             }
-            newWord+=word;
-            if(newWord.size() >= k) break;
         }
-     //  cout<<newWord<<endl;
-        return newWord[k-1];
+
+        return s[k-1];
     }
 };
