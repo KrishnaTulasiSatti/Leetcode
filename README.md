@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
