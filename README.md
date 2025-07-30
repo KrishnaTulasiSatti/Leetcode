@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -868,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2792-neighboring-bitwise-xor](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1200,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Randomized
 |  |
