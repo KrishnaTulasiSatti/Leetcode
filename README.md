@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
