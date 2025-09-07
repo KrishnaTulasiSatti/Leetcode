@@ -1190,6 +1190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0185-department-top-three-salaries) |
