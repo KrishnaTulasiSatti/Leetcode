@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
