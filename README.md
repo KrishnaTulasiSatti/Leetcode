@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1210,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 ## Rolling Hash
 |  |
