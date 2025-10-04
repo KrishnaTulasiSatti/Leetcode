@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2379-maximum-total-importance-of-roads](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2117-find-original-array-from-doubled-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -945,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1157,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1738-maximal-network-rank) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3189-find-champion-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
