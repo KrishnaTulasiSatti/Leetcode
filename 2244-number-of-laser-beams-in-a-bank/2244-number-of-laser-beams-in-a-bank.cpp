@@ -1,34 +1,32 @@
 class Solution {
 public:
     int numberOfBeams(vector<string>& bank) {
+        int cnt = 0;
 
-       
+        int i = 0;
 
-        vector<int>count;
+        while(i < bank.size()) {
 
-        for(int i = 0 ; i < bank.size() ; i++) {
+            string curr = bank[i];
+            i++;
 
-            string s = bank[i];
+            if(i >= bank.size()) break;
 
-            int cnt = 0;
+            while(i < bank.size() && bank[i].find('1') == string::npos) i++;
 
-            for(auto it : s) {
-                if(it == '1') cnt++;
-            }
-            
-            if(cnt == 0) continue;
+            if(i >= bank.size()) break;
 
-            count.push_back(cnt);
+            string next = bank[i];
+
+            int c1 = 0 , n1 = 0;
+
+            for(auto it : curr) if(it == '1') c1++;
+            for(auto it : next) if(it == '1') n1++;
+
+            cnt += (c1*n1);
+
         }
 
-        int total = 0;
-
-        if(count.size() == 0) return 0;
-
-        for(int i = 0 ; i < count.size()-1 ; i++) {
-            total += (count[i]*count[i+1]);
-        }
-
-        return total;
+        return cnt;
     }
 };
