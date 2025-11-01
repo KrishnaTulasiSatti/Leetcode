@@ -11,29 +11,34 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
+        
         unordered_map<int,int>m;
-        for(auto it : nums) m[it]++;
-        ListNode* res = NULL;
-        ListNode* t = NULL;
-        ListNode* temp = head;
-        while(temp != NULL) {
-            if(m[temp->val] >= 1) {
-                temp = temp->next;
-                continue;
-            }
-            else{
-                if(res == NULL) {
-                    res = new ListNode(temp->val);
-                    t = res;
-                }
-                else{
-                    t->next = new ListNode(temp->val);
-                    t = t->next;
-                }
-            }
-            temp = temp->next;
-            
+
+        for(auto it : nums) {
+            m[it]++;
         }
-        return res;
+
+        
+        ListNode* newHead = new ListNode(-1);
+        ListNode* temp2 = newHead;
+
+        ListNode* temp = head;
+
+        while(temp != NULL) {
+
+
+            if(m[temp->val] > 0) temp = temp->next;
+            else {
+               // cout << temp->val << "--";
+                ListNode* curr = temp;
+                temp = temp->next;
+                curr->next = NULL;
+                temp2->next = curr;
+                temp2 = temp2->next;
+              //  temp = temp->next;
+            }
+        }
+
+        return newHead->next;
     }
 };
