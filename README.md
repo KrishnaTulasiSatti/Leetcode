@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
 | [3797-design-spreadsheet](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Math
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Tree
 |  |
 | ------- |
@@ -999,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Divide and Conquer
 |  |
 | ------- |
