@@ -1,25 +1,33 @@
 class Solution {
 public:
+    vector<vector<int>>dp;
 
-int fun(vector<vector<int>>&mat,int i,int j,int m,int n,vector<vector<int>>&dp) {
-    if(i == m-1 && j == n-1 && mat[i][j] != 1) return 1;
+    int fun(vector<vector<int>>& grid,int i,int j,int m,int n) {
 
-    if(i >= m || j >= n) return 0;
+        if(i == m-1 && j == n-1 && grid[i][j] != 1) return 1;
 
-    if(mat[i][j] == 1) return 0;
+        if(i < 0 || j < 0 || i >= m || j >= n) return 0;
 
-    if(dp[i][j] != -1) return dp[i][j];
+        if(grid[i][j] == 1) return 0;
 
-    int r = fun(mat,i,j+1,m,n,dp);
-    int b = fun(mat,i+1,j,m,n,dp);
+        if(dp[i][j] != -1) return dp[i][j];
 
-    return dp[i][j] = r+b;
-}
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
+        int right = fun(grid,i,j+1,m,n);
+        int bottom = fun(grid,i+1,j,m,n);
 
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return fun(obstacleGrid,0,0,m,n,dp);
+        return dp[i][j] = right+bottom;
+
+    }
+    int uniquePathsWithObstacles(vector<vector<int>>& grid) {
+        
+
+        int m = grid.size();
+        int n = grid[0].size();
+
+        dp.resize(m,vector<int>(n,-1));
+
+        int ans = fun(grid,0,0,m,n);
+
+        return ans;
     }
 };
