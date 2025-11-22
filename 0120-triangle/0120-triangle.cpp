@@ -1,49 +1,50 @@
 class Solution {
 public:
+    // vector<vector<int>>dp;
 
-    // int fun(vector<vector<int>>&triangle,int i,int j,int rows,vector<vector<int>>&dp) {
+    // int fun(vector<vector<int>>& grid,int i,int j,int m) {
+    //     int n = grid[i].size();
 
-    //     if(i == rows-1) return triangle[i][j];
+    //     if(i == m-1) return grid[i][j];
+
+    //     if(i < 0 || j < 0 || i >= m || j >= n) return INT_MAX;
 
     //     if(dp[i][j] != -1) return dp[i][j];
 
-    //     int sum1 = triangle[i][j] + fun(triangle,i+1,j,rows,dp);
-    //     int sum2 = triangle[i][j] + fun(triangle,i+1,j+1,rows,dp);
+    //     int d1 = fun(grid,i+1,j,m);
+    //     int d2 = fun(grid,i+1,j+1,m);
 
-    //     return dp[i][j] = min(sum1,sum2);
+    //     return dp[i][j] = grid[i][j] + min(d1,d2);
 
 
     // }
-    int minimumTotal(vector<vector<int>>& triangle) {
+    int minimumTotal(vector<vector<int>>& grid) {
+        int m = grid.size();
 
-        int rows = triangle.size();
+        // dp.resize(m,vector<int>(m,-1));
 
-        vector<vector<int>>dp(rows,vector<int>(rows,INT_MAX));
+        // int ans = fun(grid,0,0,m);
+        // return ans;
 
-        dp[0][0] = triangle[0][0];
+        vector<vector<int>>dp(m,vector<int>(m));
 
-        for(int i = 1 ; i < triangle.size() ; i++) {
+        for(int j = m-1 ;  j >= 0 ; j--) dp[m-1][j] = grid[m-1][j];
 
-            for(int j = 0 ; j < triangle[i].size() ; j++) {
+        for(int i = m-1 ; i >= 0 ; i--) {
+            for(int j = grid[i].size()-1 ; j >= 0 ; j--) {
+                if(i == m-1) continue;
 
-                int sum1 = INT_MAX,sum2 = INT_MAX;
+                int s1 = INT_MAX;
+                int s2 = INT_MAX;
 
-                if(j == 0) {
-                    sum1 = dp[i-1][j] + triangle[i][j];
-                }
-                else if(i == j) {
-                    sum2 = dp[i-1][j-1] + triangle[i][j];
-                }
-                else {
-                    sum1 = dp[i-1][j] + triangle[i][j];
-                    sum2 = dp[i-1][j-1] + triangle[i][j];
-                }
+                if(i+1 < m) s1 = dp[i+1][j];
+                if(i+1 < m && j+1 < grid[i+1].size()) s2 = dp[i+1][j+1];
 
-                dp[i][j] = min(sum1,sum2);
+                dp[i][j] = grid[i][j] + min(s1,s2);
+
             }
         }
 
-        return *min_element(dp[rows-1].begin(),dp[rows-1].end());
-
+        return dp[0][0];
     }
 };
