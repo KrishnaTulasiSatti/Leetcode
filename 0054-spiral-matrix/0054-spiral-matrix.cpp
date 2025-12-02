@@ -4,65 +4,36 @@ public:
         
         vector<int>res;
 
-        int r = matrix.size();
-        int c = matrix[0].size();
+        int m = matrix.size();
+        int n = matrix[0].size();
 
-        int i = 0;
-        int j = 0;
+        int t = 0;
+        int b = m-1;
+        int l = 0;
+        int r = n-1;
 
-        int right = c,bottom = r,left = -1,top = 0;
+        while(t <= b && l <= r) {
 
-        while(res.size() != r*c) {
-
-            // Right
-
-            while(j < right && res.size() != r*c) {
-                res.push_back(matrix[i][j]);
-                j++;
-            }
+            // Right 
+            for(int i = l ; i <= r ; i++) res.push_back(matrix[t][i]);
+            t++;
 
             // Bottom
-            j--;
-            i++;
+            for(int i = t ; i <= b ; i++) res.push_back(matrix[i][r]);
+            r--;
 
-            while(i < bottom && res.size() != r*c) {
-                res.push_back(matrix[i][j]);
-                i++;
-            }
-
-            i--;
-            j--;
-
-            // Left
-
-            while(j > left && res.size() != r*c) {
-                res.push_back(matrix[i][j]);
-                j--;
-            }
-
-            j++;
-            i--;
-
-            // Top
+            if(t > b || l > r) break;
             
-            while(i > top && res.size() != r*c) {
-                res.push_back(matrix[i][j]);
-                i--;
-            }
-
-            i++;
-            j++;
-
-            right--;
-            bottom--;
-            left++;
-            top++;
-
-
-
+            // Left
+            for(int i = r ; i >= l ; i--) res.push_back(matrix[b][i]);
+            b--;
+            
+            // Top
+            for(int i = b ; i >= t ; i--) res.push_back(matrix[i][l]);
+            l++;
+            
         }
 
         return res;
-
     }
 };
