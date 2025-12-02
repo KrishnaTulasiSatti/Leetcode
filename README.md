@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1803-average-waiting-time) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
