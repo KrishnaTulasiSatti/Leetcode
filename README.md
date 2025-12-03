@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0062-unique-paths) |
