@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0885-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [0946-validate-stack-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
