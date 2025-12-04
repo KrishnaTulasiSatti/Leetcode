@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0885-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0890-lemonade-change](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0735-asteroid-collision) |
+| [0885-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -886,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0885-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0931-minimum-falling-path-sum) |
