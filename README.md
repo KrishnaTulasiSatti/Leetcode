@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
