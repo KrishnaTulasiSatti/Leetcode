@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0055-jump-game) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0146-lru-cache) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0079-word-search) |
