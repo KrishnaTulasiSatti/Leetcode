@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1197,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1755-closest-subsequence-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
