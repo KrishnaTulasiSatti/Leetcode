@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0909-stone-game) |
 | [1006-clumsy-factorial](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1033-moving-stones-until-consecutive](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1284-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1380,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [1033-moving-stones-until-consecutive](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Randomized
