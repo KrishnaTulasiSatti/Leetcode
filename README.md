@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3797-design-spreadsheet](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -1144,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1168,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
 |  |
 | ------- |
