@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-closest-subsequence-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2092-find-all-people-with-secret](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -971,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1731-even-odd-tree) |
+| [2092-find-all-people-with-secret](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1268,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1738-maximal-network-rank) |
+| [2092-find-all-people-with-secret](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3189-find-champion-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3189-find-champion-ii) |
@@ -1279,6 +1283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
