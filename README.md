@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2107-find-unique-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-closest-subsequence-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1777-determine-if-two-strings-are-close](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -1054,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1227,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1755-closest-subsequence-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
