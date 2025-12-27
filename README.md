@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1220,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2625-increment-submatrices-by-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
