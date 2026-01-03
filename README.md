@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1068,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0891-score-after-flipping-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [0980-unique-paths-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1380,6 +1383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
