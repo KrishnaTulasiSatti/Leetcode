@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1435-xor-queries-of-a-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -730,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1284-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1390-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
