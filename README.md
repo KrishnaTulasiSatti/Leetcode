@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3164-last-visited-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3164-last-visited-integers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1010,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3797-design-spreadsheet](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
