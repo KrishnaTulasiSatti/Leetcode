@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0763-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0835-linked-list-components) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -862,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -912,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -957,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1047,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
