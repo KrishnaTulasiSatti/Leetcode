@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
