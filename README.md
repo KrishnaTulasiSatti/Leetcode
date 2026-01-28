@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
