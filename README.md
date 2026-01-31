@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
