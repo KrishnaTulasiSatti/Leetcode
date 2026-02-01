@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1237,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
 |  |
 | ------- |
