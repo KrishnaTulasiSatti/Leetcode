@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0525-contiguous-array) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -799,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0933-increasing-order-search-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -1478,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1560,6 +1564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Brainteaser
