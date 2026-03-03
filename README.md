@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1006-clumsy-factorial](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1400,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
