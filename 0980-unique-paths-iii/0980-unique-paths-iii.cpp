@@ -15,8 +15,8 @@ public:
 
         if(grid[i][j] == 0) cnt++;
 
-        int top = fun(grid,i-1,j,zCnt,cnt,vis);
-        int bottom = fun(grid,i+1,j,zCnt,cnt,vis);
+        int top = fun(grid,i-1,j,zCnt,cnt,vis); // 0
+        int bottom = fun(grid,i+1,j,zCnt,cnt,vis); 
         int right = fun(grid,i,j+1,zCnt,cnt,vis);
         int left = fun(grid,i,j-1,zCnt,cnt,vis);
 
