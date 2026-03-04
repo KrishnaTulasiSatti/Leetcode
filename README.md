@@ -589,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -1403,6 +1404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
