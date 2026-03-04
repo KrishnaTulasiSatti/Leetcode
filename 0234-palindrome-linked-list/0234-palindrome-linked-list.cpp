@@ -10,50 +10,21 @@
  */
 class Solution {
 public:
-
-ListNode* reverse(ListNode* head){
-    ListNode* curr = head;
-    ListNode* next = head;
-    ListNode* prev = NULL;
-
-    while(next != NULL) {
-        next = curr->next;
-        curr->next = prev;
-        prev = curr;
-        curr = next;
-    }
-
-    head = prev;
-    return head;
-
-}
     bool isPalindrome(ListNode* head) {
-        // Brute Force : Using Stack.....st.top() == temp->val
-
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-
-        while(fast->next != NULL && fast->next->next != NULL) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        ListNode* newHead = reverse(slow->next);
-        slow->next = NULL;
-
-        ListNode* temp = head;
-        ListNode* temp2 = newHead;
-
-        while(temp != NULL && temp2 != NULL) {
-            if(temp->val != temp2->val) return false;
+        string str;
+        ListNode *temp = head;
+        while(temp != NULL) {
+            char c = temp->val+'0';
+            str+=c;
             temp = temp->next;
-            temp2 = temp2->next;
         }
-
+        int i = 0 ;
+        int j = str.size()-1;
+        while(i < j) {
+            if(str[i] != str[j]) return false;
+            i++;
+            j--;
+        }
         return true;
-
-       
-        
-    }
+     }
 };
