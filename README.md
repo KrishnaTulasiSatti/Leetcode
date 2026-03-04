@@ -780,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1006-clumsy-factorial](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1033-moving-stones-until-consecutive](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
+| [1137-n-th-tribonacci-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1284-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1389,6 +1390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1137-n-th-tribonacci-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1539,6 +1541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
+| [1137-n-th-tribonacci-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
