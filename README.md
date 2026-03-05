@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0475-heaters) |
@@ -768,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0539-minimum-time-difference) |
