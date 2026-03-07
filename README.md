@@ -791,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1390-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1642-water-bottles) |
