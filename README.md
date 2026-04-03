@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1099,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3797-design-spreadsheet](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
@@ -1418,6 +1420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Recursion
 |  |
