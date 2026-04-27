@@ -777,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0371-sum-of-two-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -1173,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0476-number-complement) |
