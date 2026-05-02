@@ -5,8 +5,6 @@ public:
 
     int fun(vector<int>&nums,int i,int n) {
 
-        if(i == n-1) return nums[i];
-
         if(i >= n) return 0;
 
         if(dp[i] != -1) return dp[i];
