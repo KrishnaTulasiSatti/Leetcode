@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0455-assign-cookies) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -1233,6 +1235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1487,6 +1490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1497,6 +1501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3829-design-ride-sharing-system](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Geometry
