@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1228,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -1256,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
@@ -1265,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -1291,6 +1297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1470,6 +1477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Design
