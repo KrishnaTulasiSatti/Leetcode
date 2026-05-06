@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -1192,6 +1193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0137-single-number-ii) |
@@ -1553,6 +1555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0090-subsets-ii) |
