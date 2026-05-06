@@ -12,22 +12,22 @@
 class Solution {
 public:
 
-    int check = 0;
+    bool ans = true;
 
     int fun(TreeNode* root) {
-
         if(root == NULL) return 0;
-        
-        int lh = 1 + fun(root->left);
-        int rh = 1 + fun(root->right);
 
-        if(abs(lh-rh) > 1) check = 1;
+        int left = fun(root->left);
+        int right = fun(root->right);
 
-        return max(lh,rh);
+        if(abs(left-right) > 1) ans = false;
+
+        return 1 + max(left,right);
+
     }
-    bool isBalanced(TreeNode* root) {
-        int res = fun(root);
 
-        return !check;
+    bool isBalanced(TreeNode* root) {
+      int h = fun(root);
+      return ans;   
     }
 };
