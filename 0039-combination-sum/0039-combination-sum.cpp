@@ -1,31 +1,37 @@
 class Solution {
 public:
 
-    vector<vector<int>> res;
+    vector<vector<int>>ans;
 
-    void fun(vector<int>&candidates,int i,int target,vector<int>& ans,int sum,int n) {
+    int n;
 
-        if(sum > target || i >= n) return;
-
-        if(sum == target) {
-            res.push_back(ans);
+    void fun(vector<int>&nums,int target,vector<int>&temp,int sum,int i) {
+        
+        if(i == n) {
+            if(sum == target) {
+                ans.push_back(temp);
+                return;
+            }
             return;
         }
+        // pick
+        if(sum < target) {
+            temp.push_back(nums[i]);
+            sum += nums[i];
+            fun(nums,target,temp,sum,i);
+            sum -= nums[i];
+            temp.pop_back();
+        }
 
-        ans.push_back(candidates[i]);
-        fun(candidates,i,target,ans,sum+candidates[i],n);
-
-        ans.pop_back();
-
-        fun(candidates,i+1,target,ans,sum,n);
-
+        fun(nums,target,temp,sum,i+1);
     }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        
-        vector<int>ans;
-        int n = candidates.size();
-        fun(candidates,0,target,ans,0,n);
 
-        return res;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        n = candidates.size();
+        vector<int>temp;
+
+        fun(candidates,target,temp,0,0);
+
+        return ans;
     }
 };
