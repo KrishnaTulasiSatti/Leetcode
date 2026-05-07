@@ -1,27 +1,20 @@
 class Solution {
 public:
-
-    vector<int>dp;
-
-    int fun(vector<int>&nums,int i,int n) {
-
-        if(i >= n) return 0;
-
-        if(dp[i] != -1) return dp[i];
-
-        //pick
-        int pick = nums[i] + fun(nums,i+2,n);
-        int not_pick = fun(nums,i+1,n);
-
-        return dp[i] = max(pick,not_pick);
-    }
-
     int rob(vector<int>& nums) {
+        
         int n = nums.size();
 
-        dp.resize(n,-1);
-        int ans = fun(nums,0,n);
+        if(n == 1) return nums[0];
 
-        return ans;
+        vector<int>dp(n,-1);
+
+        dp[0] = nums[0];
+        dp[1] = max(dp[0],nums[1]);
+
+        for(int i = 2 ; i < n ; i++) {
+            dp[i] = max(nums[i]+dp[i-2],dp[i-1]);
+        }
+
+        return dp[n-1];
     }
 };
