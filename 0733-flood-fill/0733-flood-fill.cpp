@@ -1,45 +1,42 @@
 class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        
+        queue<pair<int,int>>q;
 
         int m = image.size();
         int n = image[0].size();
 
-        queue<pair<int,int>>q;
+        int new_color = image[sr][sc];
 
         q.push({sr,sc});
-
-        int init = image[sr][sc];
-
-        if(init == color) return image;
-
         image[sr][sc] = color;
+
+        vector<vector<int>>vis(m,vector<int>(n,-1));
+        vis[sr][sc] = 1;
+
+        vector<int>dr = {-1,1,0,0};
+        vector<int>dc = {0,0,-1,1};
 
         while(!q.empty()) {
 
-            int a = q.front().first;
-            int b = q.front().second;
-
+            auto top = q.front();
             q.pop();
 
-            if(a-1 >= 0 && image[a-1][b] == init) {
-                image[a-1][b] = color;
-                q.push({a-1,b});
-            }
-            
-            if(b-1 >= 0 && image[a][b-1] == init) {
-                image[a][b-1] = color;
-                q.push({a,b-1});
-            }
+            int r = top.first;
+            int c = top.second;
 
-            if(a+1 < m && image[a+1][b] == init) {
-                image[a+1][b] = color;
-                q.push({a+1,b});
-            }
+            for(int i = 0 ; i < 4 ; i++) {
+                int nr = r + dr[i];
+                int nc = c + dc[i];
 
-            if(b+1 < n && image[a][b+1] == init) {
-                image[a][b+1] = color;
-                q.push({a,b+1});
+                if(nr >= 0 && nr < m && nc >= 0 && nc < n) {
+                    if(image[nr][nc] == new_color && vis[nr][nc] == -1) {
+                        q.push({nr,nc});
+                        image[nr][nc] = color;
+                        vis[nr][nc] = 1;
+                    }
+                }
             }
         }
 
