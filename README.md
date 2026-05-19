@@ -1732,4 +1732,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
