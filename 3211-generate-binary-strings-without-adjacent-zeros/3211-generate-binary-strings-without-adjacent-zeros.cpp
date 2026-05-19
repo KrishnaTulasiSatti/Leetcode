@@ -1,41 +1,41 @@
 class Solution {
 public:
+
     vector<string>ans;
 
     void fun(int i,int n,string& str) {
 
-        if(i >= n) {
+        if(i == n) {
             ans.push_back(str);
             return;
         }
 
-        char last = str.back();
+        // If the current char is '0' -- Only one call
+        // Else two calls
 
-        if(last == '0') {
-            str += '1';
+        if(str.back() == '0') {
+            str.push_back('1');
             fun(i+1,n,str);
             str.pop_back();
         }
-        else {
-            str += '0';
+        else{
+            str.push_back('0');
             fun(i+1,n,str);
             str.pop_back();
 
-            str += '1';
+            str.push_back('1');
             fun(i+1,n,str);
             str.pop_back();
+
         }
-
-       
-
     }
     vector<string> validStrings(int n) {
+        
+        string s1 = "0";
+        string s2 = "1";
 
-        string str = "0";
-        fun(1,n,str);
-
-        str = "1";
-        fun(1,n,str);
+        fun(1,n,s1);
+        fun(1,n,s2);
 
         return ans;
     }
