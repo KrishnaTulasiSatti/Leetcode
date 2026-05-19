@@ -2,48 +2,42 @@ class Solution {
 public:
 
     set<vector<int>>ans;
-
     int n;
 
-    void fun(vector<int>&nums,int target,int i,int n,int sum,vector<int>&temp) {
+    void fun(vector<int>& candidates, int target, int i,vector<int>& temp) {
 
         if(i == n) {
-            if(sum == target) {
+            if(target == 0) {
                 ans.insert(temp);
             }
-            return;
-        }
-        
-        if(sum >= target) {
-            if(sum == target) ans.insert(temp);
+
             return;
         }
 
-        // pick
+        if(target < 0) return;
 
-        temp.push_back(nums[i]);
-        sum += nums[i];
-        fun(nums,target,i+1,n,sum,temp);
+        temp.push_back(candidates[i]);
+        fun(candidates,target-candidates[i],i+1,temp);
         temp.pop_back();
-        sum -= nums[i];
 
-        while(i+1 < n && nums[i] == nums[i+1]) i++;
+        while(i+1 < n && candidates[i] == candidates[i+1]) i++;
 
-        fun(nums,target,i+1,n,sum,temp);
+        fun(candidates,target,i+1,temp);
+
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        n = candidates.size();
-
+        
         sort(candidates.begin(),candidates.end());
+
+        n = candidates.size();
 
         vector<int>temp;
 
-        fun(candidates,target,0,n,0,temp);
+        fun(candidates,target,0,temp);
 
         vector<vector<int>>res(ans.begin(),ans.end());
 
         return res;
-
     }
 };
