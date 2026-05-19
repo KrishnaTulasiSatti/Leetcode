@@ -1,48 +1,35 @@
 class Solution {
 public:
 
-void bfs(vector<vector<char>>& grid,int i,int j) {
+    vector<int>dr = {-1,1,0,0};
+    vector<int>dc = {0,0,-1,1};
 
-    int m = grid.size();
-    int n = grid[0].size();
+    int m,n;
 
-    queue<pair<int,int>>q;
-    q.push({i,j});
-    grid[i][j] = 'T';
-
-    vector<int>dr = {0,0,-1,1};
-    vector<int>dc = {-1,1,0,0};
-
-    while(!q.empty()) {
-        auto top = q.front();
-        q.pop();
-        int row = top.first;
-        int col = top.second;
+    void dfs(vector<vector<char>>& grid,int r,int c) {
+        grid[r][c] = '2';
 
         for(int i = 0 ; i < 4 ; i++) {
-            int nr = row + dr[i];
-            int nc = col + dc[i];
+            int nr = r + dr[i];
+            int nc = c + dc[i];
 
-            if(nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == '1') {
-                q.push({nr,nc});
-                grid[nr][nc] = 'T';
+            if(nr >= 0 && nr < m && nc >= 0 && nc < n) {
+                if(grid[nr][nc] == '1') dfs(grid,nr,nc);
             }
         }
     }
-
-}
     int numIslands(vector<vector<char>>& grid) {
         
         int cnt = 0;
 
-        int m = grid.size();
-        int n = grid[0].size();
+        m = grid.size();
+        n = grid[0].size();
 
         for(int i = 0 ; i < m ; i++) {
             for(int j = 0 ; j < n ; j++) {
                 if(grid[i][j] == '1') {
+                    dfs(grid,i,j);
                     cnt++;
-                    bfs(grid,i,j);
                 }
             }
         }
