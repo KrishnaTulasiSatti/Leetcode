@@ -1,29 +1,44 @@
 class Solution {
 public:
 
-vector<string>res;
+    vector<string>ans;
 
-void fun(string s,int open,int close,int n) {
-    if(open == n && close == n) {
-        res.push_back(s);
-        return;
+    void fun(int open,int close,string str) {
+
+        if(open == 0 && close == 0) {
+            ans.push_back(str);
+            return;
+        }
+
+
+        if(open == close) {
+            str += "(";
+            fun(open-1,close,str);
+            str.pop_back();
+        }
+        else if(open == 0 && close > 0) {
+            str += ')';
+            fun(open,close-1,str);
+            str.pop_back();
+        }
+        else {
+            str += "(";
+            fun(open-1,close,str);
+            str.pop_back();
+
+            str += ')';
+            fun(open,close-1,str);
+            str.pop_back();
+
+        }
     }
-
-    // If open < n then we can add '('
-
-    if(open < n) {
-        fun(s+'(',open+1,close,n);
-    }
-
-    // close < open then only we can add ')'
-
-    if(close < open && close < n) {
-        fun(s+')',open,close+1,n);
-    } 
-}
+    
     vector<string> generateParenthesis(int n) {
-        string s="";
-        fun(s,0,0,n);
-        return res;
+        
+        string str = "";
+
+        fun(n,n,str);
+
+        return ans;
     }
 };
