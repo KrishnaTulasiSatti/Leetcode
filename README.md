@@ -836,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1860-incremental-memory-leak](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1860-incremental-memory-leak) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1922-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -1498,6 +1499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
