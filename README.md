@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -875,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1006-clumsy-factorial) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
