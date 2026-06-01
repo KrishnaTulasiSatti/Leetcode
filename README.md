@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0139-word-break) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -1750,6 +1752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
