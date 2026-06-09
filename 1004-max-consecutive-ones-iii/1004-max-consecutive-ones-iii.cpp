@@ -17,7 +17,7 @@ public:
                 l++;
             }
 
-            cout << l << " " << r << endl;
+            // cout << l << " " << r << endl;
 
             maxi = max(maxi,r-l+1);
             r++;
