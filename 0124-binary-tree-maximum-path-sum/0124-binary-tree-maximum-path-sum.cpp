@@ -11,20 +11,28 @@
  */
 class Solution {
 public:
-int maxi = INT_MIN;
-int fun(TreeNode* root) {
-    if(root == NULL) return 0;
 
-    int left = max(0,fun(root->left));
-    int right = max(0,fun(root->right));
+    int maxi = INT_MIN;
 
-    maxi = max(maxi,root->val+left+right);
+    int fun(TreeNode* root) {
+        if(root == NULL) return 0;
 
-    return root->val+max(left,right);
-}
+        int left = fun(root->left);
+        int right = fun(root->right);
+
+        maxi = max(maxi,root->val);
+        maxi = max(maxi,root->val + left + right);
+        maxi = max(maxi,root->val + left);
+        maxi = max(maxi,root->val + right);
+
+        return root->val + max({0,left,right});
+    }
+
     int maxPathSum(TreeNode* root) {
+        
+        int res = fun(root);
+        // cout << res;
 
-        int a = fun(root);
         return maxi;
     }
 };
