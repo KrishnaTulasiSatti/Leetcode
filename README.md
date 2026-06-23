@@ -737,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0763-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0812-rotate-string) |
+| [0824-goat-latin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0824-goat-latin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
