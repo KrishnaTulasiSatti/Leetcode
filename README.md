@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3797-design-spreadsheet](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3797-design-spreadsheet](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3829-design-ride-sharing-system](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Two Pointers
@@ -1337,6 +1339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1348,11 +1351,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1454,6 +1459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1735,6 +1741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
