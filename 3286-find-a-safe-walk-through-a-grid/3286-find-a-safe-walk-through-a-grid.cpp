@@ -1,14 +1,16 @@
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
+        
+
         int m = grid.size();
         int n = grid[0].size();
 
         vector<vector<int>>dist(m,vector<int>(n,INT_MAX));
 
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+        priority_queue<vector<int>,vector<vector<int>>,greater<>>pq;
 
-        pq.push({grid[0][0],{0,0}});
+        pq.push({grid[0][0],0,0});
         dist[0][0] = grid[0][0];
 
         vector<int>dr = {0,0,-1,1};
@@ -19,29 +21,26 @@ public:
             auto top = pq.top();
             pq.pop();
 
-            int d = top.first;
-            int r = top.second.first;
-            int c = top.second.second;
+            int d = top[0];
+            int r = top[1];
+            int c = top[2];
 
             for(int i = 0 ; i < 4 ; i++) {
 
-                int nr = r + dr[i];
-                int nc = c + dc[i];
+                int nr = dr[i] + r;
+                int nc = dc[i] + c;
 
                 if(nr >= 0 && nr < m && nc >= 0 && nc < n) {
-                    if(d + grid[nr][nc] < dist[nr][nc]) {
+                    if(dist[nr][nc] > d + grid[nr][nc]) {
                         dist[nr][nc] = d + grid[nr][nc];
-                        pq.push({dist[nr][nc],{nr,nc}});
+                        pq.push({dist[nr][nc],nr,nc});
                     }
                 }
-
             }
         }
 
-      //  cout << dist[m-1][n-1] << endl;
+        int res = health - dist[m-1][n-1];
 
-        int minDist = dist[m-1][n-1];
-        if(health-minDist > 0) return true;
-        return false;
+        return res > 0;
     }
 };
