@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-count-covered-buildings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3637-trionic-array-i) |
@@ -1276,6 +1277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Heap (Priority Queue)
@@ -1387,6 +1389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3745-maximize-expression-of-three-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
 |  |
@@ -1531,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1922-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
