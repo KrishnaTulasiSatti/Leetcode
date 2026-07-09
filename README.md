@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3541-report-spam-message) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1782,6 +1785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -1790,4 +1794,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0200-number-of-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
