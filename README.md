@@ -792,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-count-anagrams](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2605-count-anagrams) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1439,6 +1440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
