@@ -1527,6 +1527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0542-01-matrix) |
+| [0576-out-of-boundary-paths](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
