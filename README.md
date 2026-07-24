@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
@@ -1310,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -1424,6 +1427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3745-maximize-expression-of-three-elements](https://github.com/KrishnaTulasiSatti/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
